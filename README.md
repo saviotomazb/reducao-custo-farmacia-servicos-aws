@@ -12,6 +12,7 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1:
+
 ⦁	[nome da ferramenta]
 
 ⦁	[foco da ferramenta]
@@ -20,6 +21,7 @@ Etapa 1:
 
 
 Etapa 2:
+
 ⦁	[nome da ferramenta]
 
 ⦁	[foco da ferramenta]
@@ -27,6 +29,7 @@ Etapa 2:
 ⦁	[descrição de caso de uso]
 
 Etapa 3:
+
 ⦁	[nome da ferramenta]
 
 ⦁	[foco da ferramenta]
