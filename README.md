@@ -39,3 +39,5 @@ Etapa 3:
 A implementação de ferramentas na empresa *Abstergo tem como esperado reduzir custos, diminuir complexidade, maior escalabilidade e segurança*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possem melhorar ainda mais os processos da empresa.
 
 ## Anexos
+
+![Comparativo entre os serviços AWS](comparativo_ferramentas_aws.png)
