@@ -1,12 +1,12 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-Data: [data de inicio do projeto]
+Data: 19/08/2025
 
 Empresa: Abstergo Industries
 
-Responsável: [nome do responsável pelo projeto]
+Responsável: Sávio Tomaz de Brito da Silva
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo, realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi *elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos*.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo, realizado por Sávio Tomaz de Brito da Silva. O objetivo do projeto foi *elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos*.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
