@@ -13,25 +13,25 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 Etapa 1:
 
-⦁	Amazon EC2
+⦁	Amazon EC2;
 
-⦁	Fornece servidores virtuais escaláveis para hospedar aplicações e serviços.
+⦁	Fornece servidores virtuais escaláveis para hospedar aplicações e serviços;
 
 ⦁	Permite que a aplicação da empresa esteja online com escalabilidade elástica, pagando apenas pelo tempo e recursos utilizados, o que ajuda a reduzir custos conforme a demanda de usuários varia.
 
 Etapa 2:
 
-⦁	Amazon RDS
+⦁	Amazon RDS;
 
-⦁	Serviço gerenciado de banco de dados relacional.
+⦁	Serviço gerenciado de banco de dados relacional;
 
 ⦁	Permite criar, operar e escalar bancos de dados como MySQL, PostgreSQL ou SQL Server sem a necessidade de gerenciar servidores ou backups manualmente, otimizando tempo e reduzindo complexidade.
 
 Etapa 3:
 
-⦁	Amazon VPC
+⦁	Amazon VPC;
 
-⦁	Serviço de rede que permite criar um ambiente virtual privado isolado dentro da nuvem AWS.
+⦁	Serviço de rede que permite criar um ambiente virtual privado isolado dentro da nuvem AWS;
 
 ⦁	Permite configurar sub-redes, faixas de IP, roteamento e regras de firewall, garantindo segurança e controle de acesso entre os recursos da empresa.
 
