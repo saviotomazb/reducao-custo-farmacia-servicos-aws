@@ -13,18 +13,24 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 Etapa 1:
 ⦁	[nome da ferramenta]
+
 ⦁	[foco da ferramenta]
+
 ⦁	[descrição de caso de uso]
 
 
 Etapa 2:
 ⦁	[nome da ferramenta]
+
 ⦁	[foco da ferramenta]
+
 ⦁	[descrição de caso de uso]
 
 Etapa 3:
 ⦁	[nome da ferramenta]
+
 ⦁	[foco da ferramenta]
+
 ⦁	[descrição de caso de uso]
 
 ## Conclusão
