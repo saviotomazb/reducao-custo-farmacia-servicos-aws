@@ -13,29 +13,29 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 Etapa 1:
 
-⦁	[nome da ferramenta]
+⦁	Amazon EC2
 
-⦁	[foco da ferramenta]
+⦁	Fornece servidores virtuais escaláveis para hospedar aplicações e serviços.
 
-⦁	[descrição de caso de uso]
+⦁	Permite que a aplicação da empresa esteja online com escalabilidade elástica, pagando apenas pelo tempo e recursos utilizados, o que ajuda a reduzir custos conforme a demanda de usuários varia.
 
 Etapa 2:
 
-⦁	[nome da ferramenta]
+⦁	Amazon RDS
 
-⦁	[foco da ferramenta]
+⦁	Serviço gerenciado de banco de dados relacional.
 
-⦁	[descrição de caso de uso]
+⦁	Permite criar, operar e escalar bancos de dados como MySQL, PostgreSQL ou SQL Server sem a necessidade de gerenciar servidores ou backups manualmente, otimizando tempo e reduzindo complexidade.
 
 Etapa 3:
 
-⦁	[nome da ferramenta]
+⦁	Amazon VPC
 
-⦁	[foco da ferramenta]
+⦁	Serviço de rede que permite criar um ambiente virtual privado isolado dentro da nuvem AWS.
 
-⦁	[descrição de caso de uso]
+⦁	Permite configurar sub-redes, faixas de IP, roteamento e regras de firewall, garantindo segurança e controle de acesso entre os recursos da empresa.
 
 ## Conclusão
-A implementação de ferramentas na empresa *Abstergo tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possem melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *Abstergo tem como esperado reduzir custos, diminuir complexidade, maior escalabilidade e segurança*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possem melhorar ainda mais os processos da empresa.
 
 ## Anexos
