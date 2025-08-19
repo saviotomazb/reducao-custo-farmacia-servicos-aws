@@ -19,8 +19,6 @@ Etapa 1:
 
 ⦁	[descrição de caso de uso]
 
-
-
 Etapa 2:
 
 ⦁	[nome da ferramenta]
@@ -28,8 +26,6 @@ Etapa 2:
 ⦁	[foco da ferramenta]
 
 ⦁	[descrição de caso de uso]
-
-
 
 Etapa 3:
 
